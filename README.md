@@ -1,9 +1,8 @@
 # FFPP
-Some updated methods on FFPP dataset personally.<br>
-You need modify args_config to run on your own machine.
+Some updated methods on FFPP dataset personally, including methods better than [official reference](https://github.com/ondyari/FaceForensics).
 
-There have 4 files.
-
+There are 4 files.
+> To run them on your own machine, you will need to modify args_config.
 1. download dataset script. [download-FaceForensics.py](https://github.com/Gnonymous/FFPP/blob/9b7db2893f81fdf993b95c384197ac1965308911/download-FaceForensics.py)
 2. extract frames from videos (no repeat). [extract_frame.py](https://github.com/Gnonymous/FFPP/blob/9b7db2893f81fdf993b95c384197ac1965308911/extract_frame.py)
 3. extract binary masks from mask_videos (no repeat). [extract_frame.py](https://github.com/Gnonymous/FFPP/blob/9b7db2893f81fdf993b95c384197ac1965308911/extract_frame.py)
