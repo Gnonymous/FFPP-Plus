@@ -1,8 +1,8 @@
 # FaceForensics++_Enhanced_Toolkit
 
-<img src="srouce/0000.png" alt="image" style="width: 40%; margin-left: 10px;"/> ➫➫➫<img src="srouce/mask_gray.png" alt="image" style="width: 40%; margin-right: 10px;"/>    
-
 ## Overview
+
+![QQ_1731646934802](/Users/gnonymous/Documents/Github/FFPP-Plus/srouce/QQ_1731646934802.png)
 
 This repo is an enhanced toolkit with some updated methods processing original [FaceForensics++ dataset](https://github.com/ondyari/FaceForensics).
 
