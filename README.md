@@ -1,4 +1,4 @@
-# FaceForensics++_Enhanced_Toolkit
+# FaceForensics++ Enhanced Toolkit
 
 ## Overview
 
