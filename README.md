@@ -1,5 +1,5 @@
 # FaceForensics++_Enhanced_Toolkit
-## Overview:
+## Overview
 
 This repo is an enhanced toolkit with some updated methods processing original [FaceForensics++ dataset](https://github.com/ondyari/FaceForensics).
 
@@ -7,7 +7,7 @@ This repo is an enhanced toolkit with some updated methods processing original [
 
 #### **BUT~**
 
-There exists some awkward problems when you first dive into the field of` Deepfake Detection`, especially `Deepfake binary mask location`, like me🫠🫠
+There exists some awkward problems when you first dive into the field of`Deepfake Detection`, especially `Deepfake binary mask location`, like me🫠🫠
 
 * How to download original dataset **completely** and **uninterruptedly**.
 * How to extract frames and  masks form videos which **can be interrupted** and **finally no-repeated**.
@@ -17,19 +17,20 @@ There exists some awkward problems when you first dive into the field of` Deepfa
 >
 > These functions maybe unobtrusive, but they can greatly increase your efficiency and improve your workflow progress!
 
-## Quick Start:
+## Quick Start
 
 There are 4 files totally.
 
 > [!TIP]
 >
-> To run them on your own machine, you will need to modify args_config.
+> 1. To run them on your own machine, you will need to modify args_config.
+> 2. Just run it!
 1. download dataset script. [download-FaceForensics.py](https://github.com/Gnonymous/FFPP/blob/9b7db2893f81fdf993b95c384197ac1965308911/download-FaceForensics.py)
 2. extract frames from videos (no repeat). [extract_frame.py](https://github.com/Gnonymous/FFPP/blob/9b7db2893f81fdf993b95c384197ac1965308911/extract_frame.py)
 3. extract binary masks from mask_videos (no repeat). [extract_frame.py](https://github.com/Gnonymous/FFPP/blob/9b7db2893f81fdf993b95c384197ac1965308911/extract_frame.py)
 4. convert a mask to binary mask. [generate_binary_mask.py](https://github.com/Gnonymous/FFPP/blob/9b7db2893f81fdf993b95c384197ac1965308911/generate_binary_mask.py)
 
-## Acknowledgement:
+## Acknowledgement
 
 Many thanks to the [FaceForensics++](https://github.com/ondyari/FaceForensics) dateset for contributing to the field of Deepfake Detection!
 
