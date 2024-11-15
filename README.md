@@ -1,4 +1,4 @@
-# FFPP
+# FaceForensics++ Plus
 Some updated methods on FFPP dataset personally, including methods better than [official reference](https://github.com/ondyari/FaceForensics).
 
 There are 4 files.
