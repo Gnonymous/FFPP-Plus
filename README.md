@@ -2,7 +2,7 @@
 
 ## Overview
 
-![QQ_1731646934802](/Users/gnonymous/Documents/Github/FFPP-Plus/srouce/QQ_1731646934802.png)
+![QQ_1731646934802](srouce/QQ_1731646934802.png)
 
 This repo is an enhanced toolkit with some updated methods processing original [FaceForensics++ dataset](https://github.com/ondyari/FaceForensics).
 
